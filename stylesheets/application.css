@@ -11,4 +11,7 @@
 .cticardnaoselecionado {
   background-color: #cf7aff !important; }
 
-
+.btn-info {
+  color: #000;
+  background-color: #531775;
+  border-color: #531775; }
