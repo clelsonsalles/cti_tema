@@ -16,7 +16,8 @@
   background-color: #531775;
   border-color: #531775; }
 
-.nav-pills .nav-link.active,
-.nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #531775; }
+.nav-pills {
+  --bs-nav-pills-border-radius: var(--bs-border-radius);
+  --bs-nav-pills-link-active-color: #531775;
+  --bs-nav-pills-link-active-bg: #531775;
+}
