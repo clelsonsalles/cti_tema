@@ -14,10 +14,16 @@
 .btn-info {
   color: #000;
   background-color: #531775;
-  border-color: #531775; }
+  border-color: #531775; 
+}
 
 .nav-pills {
   --bs-nav-pills-border-radius: var(--bs-border-radius);
   --bs-nav-pills-link-active-color: #531775;
   --bs-nav-pills-link-active-bg: #531775;
+}
+
+a, a:link {
+  color: #fff;
+  text-decoration: underline;
 }
