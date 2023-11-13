@@ -17,10 +17,7 @@
   border-color: #531775; 
 }
 
-.nav-pills {
-  --bs-nav-pills-border-radius: var(--bs-border-radius);
-  --bs-nav-pills-link-active-color: #531775;
-  --bs-nav-pills-link-active-bg: #531775;
+.nav-pills .nav-link.active, bav-pills .show> ,nav-link {
+  color #fffffff var(--bs-navpills-link-active-color);
+  background-color: #531775;
 }
-
-
