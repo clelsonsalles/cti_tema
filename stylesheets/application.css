@@ -17,7 +17,14 @@
   border-color: #531775; 
 }
 
-.nav-pills .nav-link.active, bav-pills .show> ,nav-link {
-  color #fffffff var(--bs-navpills-link-active-color);
-  background-color: #531775;
+.nav-pills .nav-link {
+  background: #531175;
+  border: 0;
+  border-radius: 0.375rem; 
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #531175; 
 }
