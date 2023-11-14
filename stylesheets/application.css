@@ -31,7 +31,9 @@ a, a:link, a:visited {
 .cti-col-md-8 {
     flex: 0 0 auto;
     width: 66.66667%; 
-    background-color: #531775;
+    background-color: #F6EEE0;
+    border:solid;
+    
 	}
 
 .nav-pills .nav-link {
