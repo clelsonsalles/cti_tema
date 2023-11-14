@@ -51,7 +51,7 @@ button[name="drop"]{
         border: none;
         cursor: pointer;
         background-color: #FF7F40;
-        padding: 10px;
+        padding: 20px;
         font-size: 15px;
         color: white;
       }
@@ -61,7 +61,7 @@ button[name="drop"]{
       }
       .drop-content{
         display: none;
-        background-color: #E4A87A;
+        background-color: #531775;
         position: absolute;
         z-index: 1;
       }
