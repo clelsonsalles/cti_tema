@@ -24,11 +24,9 @@
     background: #fff url(../images/arrow_down.png) no-repeat 97% 50%;
 }
 
-#quick-search form {
-    float: left;
-    margin-right: 3px;
-    padding-top: 25px;
-    
+#quick-search {
+    float: right;
+    padding-top: 28px;
 }
 
 .navbar-brand {
