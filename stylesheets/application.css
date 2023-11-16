@@ -11,6 +11,19 @@
 	padding: 20px;
 }
 
+#project-jump .drdn-trigger {
+    width: 100%;
+    height: 32px;
+    display: inline-block;
+    padding: 28px 18px 3px 6px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    margin: 0 !important;
+    vertical-align: middle;
+    color: #555;
+    background: #fff url(../images/arrow_down.png) no-repeat 97% 50%;
+}
+
 #quick-search form {
     float: left;
     margin-right: 3px;
