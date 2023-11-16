@@ -24,6 +24,16 @@
     background: #fff url(../images/arrow_down.png) no-repeat 97% 50%;
 }
 
+#quick-search #q {
+    width: 130px;
+    height: 32px;
+    box-sizing: border-box;
+    vertical-align: middle;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+
 #quick-search {
     float: right;
     padding-top: 28px;
