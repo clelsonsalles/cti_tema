@@ -11,6 +11,12 @@
 	padding: 20px;
 }
 
+.accordion-button:not(.collapsed) {
+    
+    background-color: #e3ccf0;
+   
+}
+
 
 #quick-search #q {
     width: 130px;
