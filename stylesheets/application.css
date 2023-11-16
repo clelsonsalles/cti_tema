@@ -14,7 +14,8 @@
 #quick-search form {
     float: left;
     margin-right: 3px;
-    padding-top: 35px;
+    padding-top: 30px;
+    height: 20px;
 }
 
 .navbar-brand {
