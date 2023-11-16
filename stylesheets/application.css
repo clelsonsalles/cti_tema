@@ -11,6 +11,12 @@
 	padding: 20px;
 }
 
+#quick-search form {
+    float: left;
+    margin-right: 3px;
+    padding-top: 35px;
+}
+
 .navbar-brand {
   padding-top: 0.32422rem;
   padding-bottom: 0.32422rem;
