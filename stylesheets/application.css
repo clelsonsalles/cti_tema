@@ -9,16 +9,10 @@
 .buttonMonitoramento {
     height: auto;
     min-height: 80px;
-    background: #531775;
+    background-color: #531775;
     
 }
 
-.buttonMonitoramento a, a:link, a:visited {
-    color: #ffffff;
-    text-decoration: none;
-} 
-   
-    
 .buttonObjetivo {
     height: auto;
     min-height: 80px;
