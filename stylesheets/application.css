@@ -29,6 +29,12 @@ h3,
 
 }
 
+accordion-header {
+    margin-bottom: 0;
+    background-color: #531775;
+}
+
+
 
 #header h1 {
 	font-size: 28px;
