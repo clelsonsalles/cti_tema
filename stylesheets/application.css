@@ -6,29 +6,14 @@
 #top-menu a{ padding: 10px, 0px, opx, opx;}
 #header {min-height:5.3em;margin:0;background-color:#70369E; color:#f8f8f8; padding: 4px 16px 20px 16px; position:relative;}
 
-.accordion-item-monitoramento {
-  background-color: #531775;
-  border: 1px solid rgba(0, 0, 0, 0.125); }
-  .accordion-item-monitoramento:first-of-type {
-    border-top-left-radius: 0.375rem;
-    border-top-right-radius: 0.375rem; }
-    .accordion-item-monitoramento:first-of-type .accordion-button {
-      border-top-left-radius: calc(0.375rem - 1px);
-      border-top-right-radius: calc(0.375rem - 1px); }
-  .accordion-item-monitoramento:not(:first-of-type) {
-    border-top: 0; }
-  .accordion-itemmonitoramento:last-of-type {
-    border-bottom-right-radius: 0.375rem;
-    border-bottom-left-radius: 0.375rem; }
-    .accordion-item-monitoramento:last-of-type .accordion-button.collapsed {
-      border-bottom-right-radius: calc(0.375rem - 1px);
-      border-bottom-left-radius: calc(0.375rem - 1px); }
-    .accordion-item-monitoramento:last-of-type .accordion-collapse {
-      border-bottom-right-radius: 0.375rem;
-      border-bottom-left-radius: 0.375rem; }
 
 .card-detalhes {
     min-height: 80px;  
+}
+
+.accordion-header-monitoramento {
+  margin-bottom: 0; 
+  background-color: #531775;
 }
 
 .box-detalhes{
@@ -145,40 +130,3 @@ a, a:link, a:visited {
   color: #fff;
   background-color: #531175; 
 }
-
----------------------------
-button[name="drop"]{
-        border: none;
-        cursor: pointer;
-        background-color: #FF7F40;
-        padding: 20px;
-	height: 35px;
-        font-size: 15px;
-        color: white;
-      }
-      .menu-drop{
-        display: inline-block;
-        position: relative;
-      }
-      .drop-content{
-        display: none;
-        background-color: #531775;
-        position: absolute;
-        z-index: 1;
-      }
-      .drop-content a{
-        color: white;
-        padding: 8px 10px;
-        text-decoration: none;
-        display: block;
-      }
-      .drop-content a:hover{
-        background-color: #C9936F;
-      }
-      .menu-drop:hover .drop-content{
-        display: block;
-      }
-      .menu-drop:hover button[name="drop"]{
-        background-color: #E2703D
-      }
-
