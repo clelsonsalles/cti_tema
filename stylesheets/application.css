@@ -17,6 +17,10 @@ h3,
     min-height: 80px;  
 }
 
+.box-detalhes{
+    min-height: 60px;  
+}
+
 .buttonMonitoramento {
     height: auto;
     min-height: 80px;
