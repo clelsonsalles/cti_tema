@@ -17,14 +17,6 @@ ght/* load the default Redmine stylesheet */
       
 }
 
-.accordion-item:first-of-type .accordion-button {
-    border-top-left-radius: var(--bs-accordion-inner-border-radius);
-    border-top-right-radius: var(--bs-accordion-inner-border-radius);
-    background-color: #e3ccf0;
-    
-}
-
-
 #quick-search #q {
     width: 130px;
     height: 25px;
