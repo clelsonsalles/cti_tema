@@ -7,7 +7,8 @@
 #header {min-height:5.3em;margin:0;background-color:#70369E; color:#f8f8f8; padding: 4px 16px 20px 16px; position:relative;}
 
 
-h3 a:link, a:visited {
+h3, 
+.h3 a, a:link, a:visited {
     color: #ffffff;
     text-decoration: none;
 }
