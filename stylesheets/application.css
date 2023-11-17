@@ -11,9 +11,9 @@
     min-height: 80px;  
 }
 
-.accordion-header-monitoramento {
-  margin-bottom: 0; 
-  background-color: #531775;
+
+.accordion-button buttonMonitoramento {
+	background-color: #531775;
 }
 
 .box-detalhes{
