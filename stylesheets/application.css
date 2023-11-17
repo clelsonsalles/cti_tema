@@ -1,4 +1,4 @@
-/* load the default Redmine stylesheet */
+ght/* load the default Redmine stylesheet */
 @import url(../../../stylesheets/application.css);
 
 /* Customização Redmine */
@@ -21,6 +21,7 @@
     border-top-left-radius: var(--bs-accordion-inner-border-radius);
     border-top-right-radius: var(--bs-accordion-inner-border-radius);
     background-color: #e3ccf0;
+    height: 25px;
 }
 
 
