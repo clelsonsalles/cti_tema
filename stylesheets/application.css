@@ -13,6 +13,10 @@ h3,
     text-decoration: none;
 }
 
+.card-detalhes {
+    min-height: 80px;  
+}
+
 .buttonMonitoramento {
     height: auto;
     min-height: 80px;
