@@ -7,7 +7,8 @@
 #header {min-height:5.3em;margin:0;background-color:#70369E; color:#f8f8f8; padding: 4px 16px 20px 16px; position:relative;}
 
 .buttonMonitoramento {
-
+    height: auto;
+    min-height: 80px;
 }
 
 .buttonObjetivo {
@@ -69,7 +70,6 @@
 
 .col-8 {
   flex: 0 0 auto;
-  width: 66.66667%; 
   background-color: #F8F9FA;
 }
 	
@@ -94,11 +94,8 @@ a, a:link, a:visited {
 .col-md-8 {
     flex: 0 0 auto;
     width: 66.66667%; 
-    background-color: #e8dce9;
-    
-   
-    
-	}
+    background-color: #e8dce9; 
+}
 
 .nav-pills .nav-link {
   background: #531175;
