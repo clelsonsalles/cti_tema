@@ -6,6 +6,15 @@
 #top-menu a{ padding: 10px, 0px, opx, opx;}
 #header {min-height:5.3em;margin:0;background-color:#70369E; color:#f8f8f8; padding: 4px 16px 20px 16px; position:relative;}
 
+h2 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-family: "Montserrat", Helvetica, sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+   
+}
+
 
 .card-detalhes {
     min-height: 80px;  
