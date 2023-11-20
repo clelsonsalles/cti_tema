@@ -7,10 +7,9 @@
 #header {min-height:5.3em;margin:0;background-color:#70369E; color:#f8f8f8; padding: 4px 16px 20px 16px; position:relative;}
 
 .contextual, h2 {
-    float: right;
     white-space: nowrap;
     font-family: 'Montserrat', sans-serif;
-    line-height: 1.4em;
+    line-height: 1.8em;
     margin: 5px 0px;
     padding-left: 10px;
     font-size: 0.9em;
