@@ -16,6 +16,16 @@
     font-size: 13px;
 }
 
+.contextual, h4 {
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.8em;
+    margin: 5px 0px;
+    padding-left: 10px;
+    font-size: 11px;
+}
+
 .badge {
     --bs-badge-padding-x: 0.65em;
     --bs-badge-padding-y: 0.35em;
