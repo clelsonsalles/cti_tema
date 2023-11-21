@@ -24,6 +24,18 @@ div.subject h3 {
     font-size: 18px;
 }
 
+p.percent {
+    font-size: 100%;
+    margin: 0;
+    font-weight: 700;
+}
+
+.progress, .progress-stacked {
+    font-size: 14px;
+    background-color: #FDF7FF;
+    border-radius: 13px;
+}
+
 
 
 div.issue {
