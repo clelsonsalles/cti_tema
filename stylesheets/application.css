@@ -16,6 +16,13 @@
     font-size: 13px;
 }
 
+.inline-flex {
+    display: inline-flex;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+}
+
 .card-detalhes {
     min-height: 80px;  
 }
