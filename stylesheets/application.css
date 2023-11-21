@@ -16,6 +16,14 @@
     font-size: 13px;
 }
 
+div.issue {
+    background: #e3ccf0;
+    padding: 12px;
+    margin-bottom: 10px;
+    border: 1px solid #bdbf90;
+    border-radius: 15px;
+}
+
 .inline-flex {
     display: inline-flex;
     font-family: 'Montserrat', sans-serif;
