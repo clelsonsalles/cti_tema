@@ -36,6 +36,12 @@
 
 }
 
+
+#sidebar {
+    background: #e3ccf0;
+    
+}
+
 div.subject h3 {
     margin: 0;
     margin-bottom: 0.1em;
@@ -132,9 +138,6 @@ div.issue {
     min-height: 80px;
 }
 
-.buttonResultado {
-
-}
 
 accordion-header {
     margin-bottom: 0;
