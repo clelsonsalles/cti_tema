@@ -77,6 +77,7 @@ p.percent {
     font-size: 14px;
     background-color: #FDF7FF;
     border-radius: 13px;
+    display: hidden;
 }
 
 
