@@ -17,6 +17,14 @@ table.progresso {
     width: 80px;
 }
 
+.progress {
+  display: ruby;
+  height: 1rem;
+  overflow: hidden;
+  font-size: 0.70313rem;
+  background-color: #e9ecef;
+  border-radius: 0.375rem; }
+
 .contextual, h2 {
     white-space: nowrap;
     font-weight: 600;
