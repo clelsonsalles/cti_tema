@@ -17,6 +17,11 @@ table.progresso {
     width: 80px;
 }
 
+
+.progress, .progress-stacked {
+  background-color: #e9ecef;
+}
+
 .progress {
   display: ruby;
   height: 1rem;
