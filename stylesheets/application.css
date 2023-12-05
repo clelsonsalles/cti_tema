@@ -168,8 +168,8 @@ accordion-header {
 
 
 #header h1 {
-	font-size: 28px;
-	padding: 20px;
+	font-size: 22px;
+	padding: 17px;
 }
 
 .accordion-button:not(.collapsed) {
