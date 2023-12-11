@@ -22,6 +22,15 @@ table.progresso {
 	padding: 17px;
 }
 
+ .h3{
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 32px;
+    color: var(--bs-heading-color);
+}
+
 .contextual, h2 {
     white-space: nowrap;
     font-weight: 600;
