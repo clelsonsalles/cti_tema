@@ -20,6 +20,13 @@ table.cal thead th {
     padding: 4px;
 }
 
+table.cal td.week-number {
+    background-color: #70369E;
+    padding: 4px;
+    border: none;
+    font-size: 1em;
+}
+
 #main-menu li a.selected, #main-menu li a.selected:hover {
     background: #fff;
     color: #555;
