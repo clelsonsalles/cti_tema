@@ -14,6 +14,12 @@
 	padding: 17px;
 }
 
+#main-menu li a.selected, #main-menu li a.selected:hover {
+    background: #fff;
+    color: #555;
+    border-radius: 10px;
+}
+
 #project-jump .drdn-trigger {
     width: 100%;
     height: 33px;
