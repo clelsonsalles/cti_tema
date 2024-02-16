@@ -28,7 +28,7 @@ input[type="submit"], button[type="submit"] {
 }
 
 
-input, select, textarea, button {
+input, select, textarea {
     color: #333;
     background-color: #fff;
     border: 1px solid #ccc;
