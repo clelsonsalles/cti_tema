@@ -16,12 +16,12 @@
 
 table.cal thead th {
     width: 14%;
-    background-color: #70369E;
+    background-color: #E3CCF0;
     padding: 4px;
 }
 
 table.cal td.week-number {
-    background-color: #70369E;
+    background-color: #E3CCF0;
     padding: 4px;
     border: none;
     font-size: 1em;
