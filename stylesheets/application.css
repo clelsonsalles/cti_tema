@@ -14,6 +14,13 @@
 	padding: 17px;
 }
 
+.nodata, .warning {
+    text-align: center;
+    background-color: #E3CCF0;
+    border-color: #70369E;
+    color: #000000;
+}
+
 table.cal thead th {
     width: 14%;
     background-color: #E3CCF0;
