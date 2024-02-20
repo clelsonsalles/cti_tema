@@ -13,6 +13,12 @@
 	font-size: 22px;
 	padding: 17px;
 }
+table.list th, .table-list-header {
+    background-color: #E3CCF0;
+    padding: 4px;
+    white-space: nowrap;
+    font-weight: bold;
+}
 
 .nodata, .warning {
     text-align: center;
