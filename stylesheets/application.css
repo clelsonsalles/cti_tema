@@ -13,6 +13,18 @@
 	font-size: 22px;
 	padding: 17px;
 }
+
+#login-form {
+    margin: 5em auto 2em auto;
+    padding: 20px;
+    width: 340px;
+    border: 1px solid #70369E;
+    background-color: #E3CCF0;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
 table.list th, .table-list-header {
     background-color: #E3CCF0;
     padding: 4px;
