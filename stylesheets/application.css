@@ -90,7 +90,7 @@ input, select, textarea {
     color: #333;
     background-color: #fff;
     border: 1px solid #ccc;
-    border-radius: 15px;
+    border-radius: 12px;
     box-sizing: border-box;
     padding: 15px;
 }
