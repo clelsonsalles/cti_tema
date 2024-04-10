@@ -73,27 +73,7 @@ table.cal td.week-number {
 }
 
 
-input[type="submit"]{
-    -webkit-appearance: button;
-    cursor: pointer;
-    background-color: #fff;
-    height: 55px;
-    width: 150px;
-    -webkit-transition: background-color 100ms linear;
-    -moz-transition: background-color 100ms linear;
-    -o-transition: background-color 100ms linear;
-    transition: background-color 100ms linear;
-}
 
-
-input, select, textarea {
-    color: #333;
-    background-color: #fff;
-    border: 1px solid #ccc;
-    border-radius: 12px;
-    box-sizing: border-box;
-    padding: 12px;
-}
 
 
 .contextual, h2 {
